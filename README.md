@@ -47,3 +47,6 @@ alcohol-sensing-engine-lock/
 │   └── wiring_details.md
 ├── documentation/
 └── images/
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/cc27eee7-d347-472b-8244-6b0e46d7feaf" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1b8db559-a1b8-40cb-82ba-f8d6811c5ee0" />
+
